@@ -1,0 +1,19 @@
+body {
+	background-image: url("../assets/actuallyextremelyorig.jpg");
+	background-size: cover;
+	background-repeat: no-repeat;
+	height: 150%;
+}
+
+
+h1 {
+	font-size: 60px;
+	font-family: helvetica;
+}
+
+p a {
+	font-size: 20px;
+	font-family: helvetica;
+	text-decoration: none;
+}
+

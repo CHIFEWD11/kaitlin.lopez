@@ -1,0 +1,19 @@
+body {
+	background-color: #EAECEB;
+}
+
+img {
+	padding-left: 250px;
+	float: left
+}
+
+ul li { 
+	float: right;
+	margin-right: 300px;
+	margin-top: 10px;
+	text-align: left;
+}
+
+h2 a {
+	text-decoration: none;
+}
